@@ -33,7 +33,6 @@ To use CSP you need the following header:
 
 The header might contain more directives, and there are other less strict options for the **frame-ancestors** directive.
 
-<br>
 If you want to use X-Frame-Options, send the proper HTTP header, with one of the following directives:
 
 	X-Frame-Options: DENY  
